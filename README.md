@@ -1,5 +1,7 @@
 # call-awaiter
 
+[![Join the chat at https://gitter.im/tuxtina/call-a-waiter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/tuxtina/call-a-waiter?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 This project was generated with the [Angular Full-Stack Generator](https://github.com/DaftMonk/generator-angular-fullstack) version 3.0.0-rc8.
 
 ## Getting Started
